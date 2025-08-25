@@ -1,7 +1,8 @@
 // Program Name: Gray Code Incrementer
 // Author: Fayyaz Nisar Shaikh
 // Date: 24th August 2025
-
+// Email: fayyaz.shaikh7862005@gmail.com
+// LinkedIn: https://www.linkedin.com/in/fayyaz-shaikh-7646312a3/
 
 #include <msp430.h>
 
