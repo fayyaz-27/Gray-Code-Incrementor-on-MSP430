@@ -15,4 +15,4 @@ This project implements a **2-bit Gray Code incrementor** on the **MSP430FR5969 
 - Jumper wires
 
 ## Software Required
-- CCS, Code Composer Studio
+- CCS - Code Composer Studio
